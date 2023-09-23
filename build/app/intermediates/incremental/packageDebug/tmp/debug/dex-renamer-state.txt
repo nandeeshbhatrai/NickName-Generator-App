@@ -1,0 +1,4 @@
+#Fri Sep 22 19:29:11 IST 2023
+base.0=/home/kali/Desktop/six_pixel/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
